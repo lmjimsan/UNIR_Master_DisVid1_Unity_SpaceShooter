@@ -1,0 +1,1963 @@
+fileFormatVersion: 2
+guid: 97024d2efc68cab469d6aa0ae74bfba3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6943482284486894941
+    second: Naves_Chulas2_0
+  - first:
+      213: -2576731781071508101
+    second: Naves_Chulas2_1
+  - first:
+      213: -3539114676267829512
+    second: Naves_Chulas2_2
+  - first:
+      213: -3739509645888851131
+    second: Naves_Chulas2_3
+  - first:
+      213: -8768558242588456683
+    second: Naves_Chulas2_4
+  - first:
+      213: 2009341031712484092
+    second: Naves_Chulas2_5
+  - first:
+      213: -802394874745597148
+    second: Naves_Chulas2_6
+  - first:
+      213: -1486822252396857016
+    second: Naves_Chulas2_7
+  - first:
+      213: 7463856257531113929
+    second: Naves_Chulas2_8
+  - first:
+      213: 3997994265908995704
+    second: Naves_Chulas2_9
+  - first:
+      213: 2329675928154878388
+    second: Naves_Chulas2_10
+  - first:
+      213: -2213762301779963213
+    second: Naves_Chulas2_11
+  - first:
+      213: 2012140313947713839
+    second: Naves_Chulas2_12
+  - first:
+      213: -8750675743110455297
+    second: Naves_Chulas2_13
+  - first:
+      213: -6300654632281042913
+    second: Naves_Chulas2_14
+  - first:
+      213: 4677214893435868798
+    second: Naves_Chulas2_15
+  - first:
+      213: -2113006526686041935
+    second: Naves_Chulas2_16
+  - first:
+      213: -6451347083061116264
+    second: Naves_Chulas2_17
+  - first:
+      213: -4548868841857679664
+    second: Naves_Chulas2_18
+  - first:
+      213: 2493405080933740974
+    second: Naves_Chulas2_19
+  - first:
+      213: 8711728535326345957
+    second: Naves_Chulas2_20
+  - first:
+      213: -5694865221572755627
+    second: Naves_Chulas2_21
+  - first:
+      213: 7095543873188697635
+    second: Naves_Chulas2_22
+  - first:
+      213: 5625572817379278970
+    second: Naves_Chulas2_23
+  - first:
+      213: -7083462335327052527
+    second: Naves_Chulas2_24
+  - first:
+      213: 173360837269978911
+    second: Naves_Chulas2_25
+  - first:
+      213: -4059239002004140961
+    second: Naves_Chulas2_26
+  - first:
+      213: 5554110253317174063
+    second: Naves_Chulas2_27
+  - first:
+      213: 3945809137323171760
+    second: Naves_Chulas2_28
+  - first:
+      213: 6928473037797002938
+    second: Naves_Chulas2_29
+  - first:
+      213: 4591235002204440153
+    second: Naves_Chulas2_30
+  - first:
+      213: -632124637030315585
+    second: Naves_Chulas2_31
+  - first:
+      213: -3845140962792864547
+    second: Naves_Chulas2_32
+  - first:
+      213: 3068126781512403024
+    second: Naves_Chulas2_33
+  - first:
+      213: -8755007611115648865
+    second: Naves_Chulas2_34
+  - first:
+      213: -3653443202235040350
+    second: Naves_Chulas2_35
+  - first:
+      213: 467434231990935352
+    second: Naves_Chulas2_36
+  - first:
+      213: -1639041176540845695
+    second: Naves_Chulas2_37
+  - first:
+      213: 578929364869454975
+    second: Naves_Chulas2_38
+  - first:
+      213: 807051425966756222
+    second: Naves_Chulas2_39
+  - first:
+      213: 7801748521850092028
+    second: Naves_Chulas2_40
+  - first:
+      213: -9146867067393736838
+    second: Naves_Chulas2_41
+  - first:
+      213: -8334720795554984454
+    second: Naves_Chulas2_42
+  - first:
+      213: -4817953772249537933
+    second: Naves_Chulas2_43
+  - first:
+      213: 1599258052694401123
+    second: Naves_Chulas2_44
+  - first:
+      213: -8110439525854134223
+    second: Naves_Chulas2_45
+  - first:
+      213: -8511134328308078608
+    second: Naves_Chulas2_46
+  - first:
+      213: 5400384474055558449
+    second: Naves_Chulas2_47
+  - first:
+      213: -8356472277173609870
+    second: Naves_Chulas2_48
+  - first:
+      213: 4485904123265842143
+    second: Naves_Chulas2_49
+  - first:
+      213: -8367466116358226806
+    second: Naves_Chulas2_50
+  - first:
+      213: 2529560794004318232
+    second: Naves_Chulas2_51
+  - first:
+      213: 8158885099305019873
+    second: Naves_Chulas2_52
+  - first:
+      213: 517913695656205611
+    second: Naves_Chulas2_53
+  - first:
+      213: -5899447551727774136
+    second: Naves_Chulas2_54
+  - first:
+      213: 4990537253495590772
+    second: Naves_Chulas2_55
+  - first:
+      213: -7104719292756940081
+    second: Naves_Chulas2_56
+  - first:
+      213: -6830935648405720372
+    second: Naves_Chulas2_57
+  - first:
+      213: 6742932503900235623
+    second: Naves_Chulas2_58
+  - first:
+      213: 8780473205241744885
+    second: Naves_Chulas2_59
+  - first:
+      213: -1358154094043578641
+    second: Naves_Chulas2_60
+  - first:
+      213: 2855340360098960780
+    second: Naves_Chulas2_61
+  - first:
+      213: -3998927926982865780
+    second: Naves_Chulas2_62
+  - first:
+      213: 5374164628698929218
+    second: Naves_Chulas2_63
+  - first:
+      213: -7828000587734917502
+    second: Naves_Chulas2_64
+  - first:
+      213: 5071121673576044328
+    second: Naves_Chulas2_65
+  - first:
+      213: 6886614378747878459
+    second: Naves_Chulas2_66
+  - first:
+      213: -4902860173454363758
+    second: Naves_Chulas2_67
+  - first:
+      213: 413366497095900012
+    second: Naves_Chulas2_68
+  - first:
+      213: -8761727596064330510
+    second: Naves_Chulas2_69
+  - first:
+      213: -5339116079049435591
+    second: Naves_Chulas2_70
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Naves_Chulas2_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 450
+        width: 126
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d552f0f79543c5060800000000000000
+      internalID: 6943482284486894941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naves_Chulas2_1
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 481
+        width: 56
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7de5c3e81c9d3cd0800000000000000
+      internalID: -2576731781071508101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naves_Chulas2_2
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 478
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f63fa5f3f982eec0800000000000000
+      internalID: -3539114676267829512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naves_Chulas2_3
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 474
+        width: 89
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 543f5a23ac79a1cc0800000000000000
+      internalID: -3739509645888851131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naves_Chulas2_4
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 455
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51901367cb2df4680800000000000000
+      internalID: -8768558242588456683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naves_Chulas2_5
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 427
+        width: 54
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfae6dbb50d92eb10800000000000000
+      internalID: 2009341031712484092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naves_Chulas2_6
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 437
+        width: 77
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 423d139dc125dd4f0800000000000000
+      internalID: -802394874745597148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naves_Chulas2_7
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 408
+        width: 80
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8493db9f90fbd5be0800000000000000
+      internalID: -1486822252396857016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naves_Chulas2_8
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 424
+        width: 70
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c1f7b498b1f49760800000000000000
+      internalID: 7463856257531113929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naves_Chulas2_9
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 425
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 876ed814a9abb7730800000000000000
+      internalID: 3997994265908995704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naves_Chulas2_10
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 385
+        width: 27
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b1337bd9eba45020800000000000000
+      internalID: 2329675928154878388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naves_Chulas2_11
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 424
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b211416ae22741e0800000000000000
+      internalID: -2213762301779963213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naves_Chulas2_12
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 396
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f21b81b64fe8ceb10800000000000000
+      internalID: 2012140313947713839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naves_Chulas2_13
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 394
+        width: 18
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fff164356ca5f8680800000000000000
+      internalID: -8750675743110455297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naves_Chulas2_14
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 314
+        width: 52
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1018768ef39f88a0800000000000000
+      internalID: -6300654632281042913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naves_Chulas2_15
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 388
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7659652a2ec8e040800000000000000
+      internalID: 4677214893435868798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naves_Chulas2_16
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 384
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b8ebc852c71da2e0800000000000000
+      internalID: -2113006526686041935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naves_Chulas2_17
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 390
+        width: 56
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 892c36732063876a0800000000000000
+      internalID: -6451347083061116264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naves_Chulas2_18
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 340
+        width: 71
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0defa37a3eb2fd0c0800000000000000
+      internalID: -4548868841857679664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naves_Chulas2_19
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 315
+        width: 28
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea1b532e5ba5a9220800000000000000
+      internalID: 2493405080933740974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naves_Chulas2_20
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 333
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5eac2c732f646e870800000000000000
+      internalID: 8711728535326345957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naves_Chulas2_21
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 330
+        width: 49
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55ffd60f046c7f0b0800000000000000
+      internalID: -5694865221572755627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naves_Chulas2_22
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 284
+        width: 47
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3269c911f8f687260800000000000000
+      internalID: 7095543873188697635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naves_Chulas2_23
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 352
+        width: 26
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a704cfdfbac021e40800000000000000
+      internalID: 5625572817379278970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naves_Chulas2_24
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 342
+        width: 15
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11dd8fa298c72bd90800000000000000
+      internalID: -7083462335327052527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naves_Chulas2_25
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 370
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1ff07353c6e76200800000000000000
+      internalID: 173360837269978911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naves_Chulas2_26
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 278
+        width: 25
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5cc12b62afaaa7c0800000000000000
+      internalID: -4059239002004140961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naves_Chulas2_27
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 274
+        width: 53
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f23335439d9241d40800000000000000
+      internalID: 5554110253317174063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naves_Chulas2_28
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 299
+        width: 45
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bf53ad218452c630800000000000000
+      internalID: 3945809137323171760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naves_Chulas2_29
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 286
+        width: 28
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abe03cde481e62060800000000000000
+      internalID: 6928473037797002938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naves_Chulas2_30
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 315
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9564cbab8e757bf30800000000000000
+      internalID: 4591235002204440153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naves_Chulas2_31
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 249
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb90904edfd3a37f0800000000000000
+      internalID: -632124637030315585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naves_Chulas2_32
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 247
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd48d61baa053aac0800000000000000
+      internalID: -3845140962792864547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naves_Chulas2_33
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 216
+        width: 57
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 058c8e95d0d249a20800000000000000
+      internalID: 3068126781512403024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naves_Chulas2_34
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 273
+        width: 36
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f984c95b6f6ff7680800000000000000
+      internalID: -8755007611115648865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naves_Chulas2_35
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 279
+        width: 48
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2adf6bba3cc5c4dc0800000000000000
+      internalID: -3653443202235040350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naves_Chulas2_36
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 254
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83f5da915f8ac7600800000000000000
+      internalID: 467434231990935352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naves_Chulas2_37
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 264
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1896b04ebb4f049e0800000000000000
+      internalID: -1639041176540845695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naves_Chulas2_38
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 234
+        width: 28
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7c1617a035c80800800000000000000
+      internalID: 578929364869454975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naves_Chulas2_39
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 213
+        width: 52
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e719838fef8333b00800000000000000
+      internalID: 807051425966756222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naves_Chulas2_40
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 206
+        width: 28
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf9bdc7f1f0654c60800000000000000
+      internalID: 7801748521850092028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naves_Chulas2_41
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 206
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7ff6484ddccf0180800000000000000
+      internalID: -9146867067393736838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naves_Chulas2_42
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 212
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afd42ee789f155c80800000000000000
+      internalID: -8334720795554984454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naves_Chulas2_43
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 201
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37220dc1290332db0800000000000000
+      internalID: -4817953772249537933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naves_Chulas2_44
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 193
+        width: 70
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3606807c9b4b13610800000000000000
+      internalID: 1599258052694401123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naves_Chulas2_45
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 154
+        width: 43
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1304d21e83ee17f80800000000000000
+      internalID: -8110439525854134223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naves_Chulas2_46
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 119
+        width: 64
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f7609d1c6062e980800000000000000
+      internalID: -8511134328308078608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naves_Chulas2_47
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 182
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 135cd92111502fa40800000000000000
+      internalID: 5400384474055558449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naves_Chulas2_48
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 161
+        width: 27
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27adaa70db8d70c80800000000000000
+      internalID: -8356472277173609870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naves_Chulas2_49
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 171
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdb78b36802214e30800000000000000
+      internalID: 4485904123265842143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naves_Chulas2_50
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 182
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8cb95066e9c0eb80800000000000000
+      internalID: -8367466116358226806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naves_Chulas2_51
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 100
+        width: 80
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 818e164d32eca1320800000000000000
+      internalID: 2529560794004318232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naves_Chulas2_52
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 190
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e9ad4b25ce2a3170800000000000000
+      internalID: 8158885099305019873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naves_Chulas2_53
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 95
+        width: 40
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2dd5ed13cfff2700800000000000000
+      internalID: 517913695656205611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naves_Chulas2_54
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 136
+        width: 27
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 846d73455b3f02ea0800000000000000
+      internalID: -5899447551727774136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naves_Chulas2_55
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 105
+        width: 75
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47f45f8e033f14540800000000000000
+      internalID: 4990537253495590772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naves_Chulas2_56
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 162
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcaab561277f66d90800000000000000
+      internalID: -7104719292756940081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naves_Chulas2_57
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 10
+        width: 44
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc279393834a331a0800000000000000
+      internalID: -6830935648405720372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naves_Chulas2_58
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 131
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 767a86ff265b39d50800000000000000
+      internalID: 6742932503900235623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naves_Chulas2_59
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 118
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fd0546fbd18ad970800000000000000
+      internalID: 8780473205241744885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naves_Chulas2_60
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 82
+        width: 106
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fee3a4a1c0ed62de0800000000000000
+      internalID: -1358154094043578641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naves_Chulas2_61
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 100
+        width: 99
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c85d884ede430a720800000000000000
+      internalID: 2855340360098960780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naves_Chulas2_62
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 70
+        width: 35
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8c0cc5dc34f088c0800000000000000
+      internalID: -3998927926982865780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naves_Chulas2_63
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 70
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 248911a914ed49a40800000000000000
+      internalID: 5374164628698929218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naves_Chulas2_64
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 68
+        width: 105
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28ed282a0fa5d5390800000000000000
+      internalID: -7828000587734917502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naves_Chulas2_65
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 49
+        width: 105
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 827d84e4b4e306640800000000000000
+      internalID: 5071121673576044328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naves_Chulas2_66
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 13
+        width: 57
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3c5d566a4b229f50800000000000000
+      internalID: 6886614378747878459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naves_Chulas2_67
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 10
+        width: 72
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 293b7d116aa85fbb0800000000000000
+      internalID: -4902860173454363758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naves_Chulas2_68
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 27
+        width: 105
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6bd27593a29cb500800000000000000
+      internalID: 413366497095900012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naves_Chulas2_69
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 11
+        width: 116
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fc29d94c27186680800000000000000
+      internalID: -8761727596064330510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naves_Chulas2_70
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 12
+        width: 58
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9369ea5c636a7e5b0800000000000000
+      internalID: -5339116079049435591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Naves_Chulas2_0: 6943482284486894941
+      Naves_Chulas2_1: -2576731781071508101
+      Naves_Chulas2_10: 2329675928154878388
+      Naves_Chulas2_11: -2213762301779963213
+      Naves_Chulas2_12: 2012140313947713839
+      Naves_Chulas2_13: -8750675743110455297
+      Naves_Chulas2_14: -6300654632281042913
+      Naves_Chulas2_15: 4677214893435868798
+      Naves_Chulas2_16: -2113006526686041935
+      Naves_Chulas2_17: -6451347083061116264
+      Naves_Chulas2_18: -4548868841857679664
+      Naves_Chulas2_19: 2493405080933740974
+      Naves_Chulas2_2: -3539114676267829512
+      Naves_Chulas2_20: 8711728535326345957
+      Naves_Chulas2_21: -5694865221572755627
+      Naves_Chulas2_22: 7095543873188697635
+      Naves_Chulas2_23: 5625572817379278970
+      Naves_Chulas2_24: -7083462335327052527
+      Naves_Chulas2_25: 173360837269978911
+      Naves_Chulas2_26: -4059239002004140961
+      Naves_Chulas2_27: 5554110253317174063
+      Naves_Chulas2_28: 3945809137323171760
+      Naves_Chulas2_29: 6928473037797002938
+      Naves_Chulas2_3: -3739509645888851131
+      Naves_Chulas2_30: 4591235002204440153
+      Naves_Chulas2_31: -632124637030315585
+      Naves_Chulas2_32: -3845140962792864547
+      Naves_Chulas2_33: 3068126781512403024
+      Naves_Chulas2_34: -8755007611115648865
+      Naves_Chulas2_35: -3653443202235040350
+      Naves_Chulas2_36: 467434231990935352
+      Naves_Chulas2_37: -1639041176540845695
+      Naves_Chulas2_38: 578929364869454975
+      Naves_Chulas2_39: 807051425966756222
+      Naves_Chulas2_4: -8768558242588456683
+      Naves_Chulas2_40: 7801748521850092028
+      Naves_Chulas2_41: -9146867067393736838
+      Naves_Chulas2_42: -8334720795554984454
+      Naves_Chulas2_43: -4817953772249537933
+      Naves_Chulas2_44: 1599258052694401123
+      Naves_Chulas2_45: -8110439525854134223
+      Naves_Chulas2_46: -8511134328308078608
+      Naves_Chulas2_47: 5400384474055558449
+      Naves_Chulas2_48: -8356472277173609870
+      Naves_Chulas2_49: 4485904123265842143
+      Naves_Chulas2_5: 2009341031712484092
+      Naves_Chulas2_50: -8367466116358226806
+      Naves_Chulas2_51: 2529560794004318232
+      Naves_Chulas2_52: 8158885099305019873
+      Naves_Chulas2_53: 517913695656205611
+      Naves_Chulas2_54: -5899447551727774136
+      Naves_Chulas2_55: 4990537253495590772
+      Naves_Chulas2_56: -7104719292756940081
+      Naves_Chulas2_57: -6830935648405720372
+      Naves_Chulas2_58: 6742932503900235623
+      Naves_Chulas2_59: 8780473205241744885
+      Naves_Chulas2_6: -802394874745597148
+      Naves_Chulas2_60: -1358154094043578641
+      Naves_Chulas2_61: 2855340360098960780
+      Naves_Chulas2_62: -3998927926982865780
+      Naves_Chulas2_63: 5374164628698929218
+      Naves_Chulas2_64: -7828000587734917502
+      Naves_Chulas2_65: 5071121673576044328
+      Naves_Chulas2_66: 6886614378747878459
+      Naves_Chulas2_67: -4902860173454363758
+      Naves_Chulas2_68: 413366497095900012
+      Naves_Chulas2_69: -8761727596064330510
+      Naves_Chulas2_7: -1486822252396857016
+      Naves_Chulas2_70: -5339116079049435591
+      Naves_Chulas2_8: 7463856257531113929
+      Naves_Chulas2_9: 3997994265908995704
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

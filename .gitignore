@@ -1,0 +1,123 @@
+﻿# This .gitignore file should be placed at the root of your Unity project directory
+#
+# Get latest from https://github.com/github/gitignore/blob/main/Unity.gitignore
+
+# Unity generated
+.utmp/
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+*.log
+
+# Blender auxiliary files
+*.blend1
+*.blend1.meta
+
+# Memory captures and recordings (can be huge and sensitive)
+/[Mm]emoryCaptures/
+/[Rr]ecordings/
+
+# Asset Store tools (uncomment if needed)
+# /[Aa]ssets/AssetStoreTools*
+
+# JetBrains Rider
+/[Aa]ssets/Plugins/Editor/JetBrains*
+*.DotSettings.user
+
+# Visual Studio
+.vs/
+
+# Gradle
+.gradle/
+
+# Auto-generated solutions/projects
+ExportedObj/
+.consulo/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# Unity generated meta and crash info
+*.pidb.meta
+*.pdb.meta
+*.mdb.meta
+sysinfo.txt
+mono_crash.*
+
+# Builds and packages
+*.apk
+*.aab
+*.unitypackage
+*.unitypackage.meta
+*.app
+
+# Crashlytics
+crashlytics-build.properties
+
+# TestRunner generated
+InitTestScene*.unity*
+
+# Addressables defaults
+/ServerData
+/[Aa]ssets/StreamingAssets/aa*
+/[Aa]ssets/AddressableAssetsData/link.xml*
+/[Aa]ssets/Addressables_Temp*
+/[Aa]ssets/AddressableAssetsData/*/*.bin*
+
+# Visual Scripting generated
+/[Aa]ssets/Unity.VisualScripting.Generated/VisualScripting.Flow/UnitOptions.db
+/[Aa]ssets/Unity.VisualScripting.Generated/VisualScripting.Flow/UnitOptions.db.meta
+/[Aa]ssets/Unity.VisualScripting.Generated/VisualScripting.Core/Property Providers
+/[Aa]ssets/Unity.VisualScripting.Generated/VisualScripting.Core/Property Providers.meta
+
+# Auto-generated scenes by play mode tests
+/[Aa]ssets/[Ii]nit[Tt]est[Ss]cene*.unity*
+
+# ----------
+# Project-specific extras
+# ----------
+
+# Additional IDEs
+.idea/
+*.sln.iml
+.vscode/
+
+# Platforms
+.DS_Store
+Thumbs.db
+
+# Logs and temps
+*.stackdump
+*.dmp
+*.mem
+*.crash
+*.tmp
+
+# TextMesh Pro auto assets
+/[Aa]ssets/TextMesh Pro/
+
+# Plastic SCM plugin data
+/[Aa]ssets/PlasticSCM/
+
+# Do NOT ignore (keep tracked)
+!Assets/
+!Packages/
+!ProjectSettings/
+!*.md
+!*.html
+!*.rtf
