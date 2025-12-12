@@ -58,4 +58,4 @@ Any key         Avanza desde pantalla de inicio y reintenta tras derrota
 - Metajuego: leaderboard online, ajustes de dificultad y guardado de progreso.
 
 ## Crédito y licencia
-Proyecto educativo creado por Luis Miguel Jiménez (2025). Uso libre con fines académicos
+Proyecto educativo creado por Luis Miguel Jiménez (2025). 
